@@ -1,0 +1,6 @@
+﻿  CompletedJob.cpp
+C:\Users\rjayb\OneDrive\Desktop\Corroding\Chewing my code\CSCN 112 (004) Lab 6\CSCN 112 (004) Lab 6\CompletedJob.cpp(20,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  RevenueCalculator.cpp
+C:\Users\rjayb\OneDrive\Desktop\Corroding\Chewing my code\CSCN 112 (004) Lab 6\CSCN 112 (004) Lab 6\RevenueCalculator.cpp(88,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  CSCN 112 (004) Lab 6.vcxproj -> C:\Users\rjayb\OneDrive\Desktop\Corroding\Chewing my code\CSCN 112 (004) Lab 6\x64\Debug\CSCN 112 (004) Lab 6.exe

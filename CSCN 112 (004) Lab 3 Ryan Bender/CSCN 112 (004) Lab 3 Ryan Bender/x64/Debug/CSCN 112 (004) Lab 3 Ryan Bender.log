@@ -1,0 +1,7 @@
+﻿  Employee.cpp
+C:\Users\rjayb\OneDrive\Desktop\Chewing my code\CSCN 112 (004) Lab 3 Ryan Bender\CSCN 112 (004) Lab 3 Ryan Bender\Employee.cpp(17,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\rjayb\OneDrive\Desktop\Chewing my code\CSCN 112 (004) Lab 3 Ryan Bender\CSCN 112 (004) Lab 3 Ryan Bender\Employee.cpp(115,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rjayb\OneDrive\Desktop\Chewing my code\CSCN 112 (004) Lab 3 Ryan Bender\CSCN 112 (004) Lab 3 Ryan Bender\Employee.cpp(285,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+  Generating Code...
+  CSCN 112 (004) Lab 3 Ryan Bender.vcxproj -> C:\Users\rjayb\OneDrive\Desktop\Chewing my code\CSCN 112 (004) Lab 3 Ryan Bender\x64\Debug\CSCN 112 (004) Lab 3 Ryan Bender.exe

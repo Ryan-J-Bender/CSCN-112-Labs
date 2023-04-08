@@ -1,0 +1,7 @@
+﻿  House.cpp
+C:\Users\rjayb\OneDrive\Desktop\Chewing my code\CSCN 112 (004) Lab 4\CSCN 112 (004) Lab 4\House.h(22,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Main.cpp
+C:\Users\rjayb\OneDrive\Desktop\Chewing my code\CSCN 112 (004) Lab 4\CSCN 112 (004) Lab 4\House.h(22,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rjayb\OneDrive\Desktop\Chewing my code\CSCN 112 (004) Lab 4\CSCN 112 (004) Lab 4\Main.cpp(158,13): warning C4553: '==': result of expression not used; did you intend '='?
+  Generating Code...
+  CSCN 112 (004) Lab 4.vcxproj -> C:\Users\rjayb\OneDrive\Desktop\Chewing my code\CSCN 112 (004) Lab 4\x64\Debug\CSCN 112 (004) Lab 4.exe

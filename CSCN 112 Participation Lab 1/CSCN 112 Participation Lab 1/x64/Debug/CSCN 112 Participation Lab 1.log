@@ -1,0 +1,8 @@
+﻿  CSCN 112 Participation Lab 1.cpp
+C:\Users\rjayb\OneDrive\Desktop\Chewing my code\CSCN 112 Participation Lab 1\CSCN 112 Participation Lab 1\CSCN 112 Participation Lab 1.cpp(22,19): error C2065: 'ifstream': undeclared identifier
+C:\Users\rjayb\OneDrive\Desktop\Chewing my code\CSCN 112 Participation Lab 1\CSCN 112 Participation Lab 1\CSCN 112 Participation Lab 1.cpp(22,29): error C2065: 'input': undeclared identifier
+C:\Users\rjayb\OneDrive\Desktop\Chewing my code\CSCN 112 Participation Lab 1\CSCN 112 Participation Lab 1\CSCN 112 Participation Lab 1.cpp(89,22): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\rjayb\OneDrive\Desktop\Chewing my code\CSCN 112 Participation Lab 1\CSCN 112 Participation Lab 1\CSCN 112 Participation Lab 1.cpp(114,10): error C2365: 'fileGame': redefinition; previous definition was 'data variable'
+C:\Users\rjayb\OneDrive\Desktop\Chewing my code\CSCN 112 Participation Lab 1\CSCN 112 Participation Lab 1\CSCN 112 Participation Lab 1.cpp(22): message : see declaration of 'fileGame'
+  footBall.cpp
+  Generating Code...

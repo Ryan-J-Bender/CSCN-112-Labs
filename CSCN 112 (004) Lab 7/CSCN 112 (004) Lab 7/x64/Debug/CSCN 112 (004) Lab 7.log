@@ -1,0 +1,9 @@
+﻿  Department.cpp
+C:\Users\rjayb\OneDrive\Desktop\Chewing my code\CSCN 112 (004) Lab 7\CSCN 112 (004) Lab 7\Department.cpp(299,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\rjayb\OneDrive\Desktop\Chewing my code\CSCN 112 (004) Lab 7\CSCN 112 (004) Lab 7\Department.cpp(321,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Employee.cpp
+  Main.cpp
+  Manager.cpp
+  Person.cpp
+  Generating Code...
+  CSCN 112 (004) Lab 7.vcxproj -> C:\Users\rjayb\OneDrive\Desktop\Chewing my code\CSCN 112 (004) Lab 7\x64\Debug\CSCN 112 (004) Lab 7.exe

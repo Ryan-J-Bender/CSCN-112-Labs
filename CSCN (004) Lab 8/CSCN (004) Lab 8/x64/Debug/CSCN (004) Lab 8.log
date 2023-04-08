@@ -1,0 +1,7 @@
+﻿  Inventory.cpp
+C:\Users\rjayb\OneDrive\Desktop\Chewing my code\CSCN (004) Lab 8\CSCN (004) Lab 8\HighGloss.h(41,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\rjayb\OneDrive\Desktop\Chewing my code\CSCN (004) Lab 8\CSCN (004) Lab 8\Eggshell.h(40,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\rjayb\OneDrive\Desktop\Chewing my code\CSCN (004) Lab 8\CSCN (004) Lab 8\Flat.h(38,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\rjayb\OneDrive\Desktop\Chewing my code\CSCN (004) Lab 8\CSCN (004) Lab 8\SemiGloss.h(41,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\rjayb\OneDrive\Desktop\Chewing my code\CSCN (004) Lab 8\CSCN (004) Lab 8\Satin.h(40,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  CSCN (004) Lab 8.vcxproj -> C:\Users\rjayb\OneDrive\Desktop\Chewing my code\CSCN (004) Lab 8\x64\Debug\CSCN (004) Lab 8.exe
